@@ -1,2 +1,5 @@
 # hello-world
-It is my first repository. Here I will add ideas and brain moments.
+
+Hi everybody!
+
+It is my first git repository. I am learning git for myself using internet. I am electrical engineer and I work in analog design.
